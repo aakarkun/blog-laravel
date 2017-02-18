@@ -26,8 +26,6 @@ class CreatePostsTable extends Migration
         });
     }
 
-    //blog-inprogress
-
     /**
      * Reverse the migrations.
      *
